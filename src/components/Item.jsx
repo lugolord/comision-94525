@@ -14,6 +14,7 @@ function Item ({ item }) {
           <Card.Title>{item.name}</Card.Title>
           <Card.Text>
             {item.description}
+            pepito
           </Card.Text>
           <Button 
             variant="dark"
